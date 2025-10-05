@@ -29,13 +29,3 @@ This project is a starting point for a Android Studio application.
 - This project is a very basic project that I'll recommend for a beginner Android developer.
 - The BMI calculator was made to perform a simple mathematical operation for calculating the bmi of a user.
   
-
-## 📬 Connect With Me
-
-- **LinkedIn** - [OgheneTejiri Agoro](https://www.linkedin.com/in/heistejiri/)
-- **Twitter** - [@Heistejiri](https://www.twitter.com/heistejiri)
-
-## 📌 Acknowledgments
-
-- Icons Used For Tech Stack Section - [https://img.shields.io](https://img.shields.io)
-- This ReadMe File Inspired From - [Jigar Sable](https://github.com/jigar-sable)
